@@ -2,9 +2,9 @@ package clients;
 
 public class ClientRepository {
 
-  public boolean birthdayIsTodayFor(String name) {
+  public boolean birthdayIsTodayFor(String name) throws RuntimeException {
     // TODO Auto-generated method stub
-    return false;
+    throw new RuntimeException("cannot connect to database");
   }
 
 }

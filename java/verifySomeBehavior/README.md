@@ -1,4 +1,4 @@
-## Simple Exercice to train the basics of stubbing and mocking
+## Simple Exercise to train the basics of stubbing and mocking
 
 Checkout stubSomeValues branch
 
